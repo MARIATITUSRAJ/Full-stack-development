@@ -14,4 +14,4 @@ The algorithm to compare two JSON documents works as follows. The function check
 3. Use the Same Countries and Print all countries and Print Names, Regions, sub-region and Populations.
 
 
-Thank and supporting for my query
+Thanks and we have your support and valuable feedback
